@@ -1,0 +1,10 @@
+{
+    "A":"man",
+    "R":"points",
+    "B":"woman",
+    "ARB": "there is a man pointing at a woman",
+    "BRA": "there is a woman pointing at a man",
+    "ARB_dir": "man points at woman",
+    "BRA_dir": "woman points at man"
+
+}

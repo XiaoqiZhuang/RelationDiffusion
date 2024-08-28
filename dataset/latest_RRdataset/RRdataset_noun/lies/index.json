@@ -1,0 +1,10 @@
+{
+    "A":"pig",
+    "R":"lies",
+    "B":"blanket",
+    "ARB": "a pig lies on blanket",
+    "BRA": "a blanket lies on pig",
+    "ARB_dir": "pig lies on blanket",
+    "BRA_dir": "blanket lies on pig"
+
+}

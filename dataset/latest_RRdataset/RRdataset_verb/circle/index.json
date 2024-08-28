@@ -1,0 +1,10 @@
+{
+    "A":"flower",
+    "R":"circles",
+    "B":"rock",
+    "ARB": "flowers circle a rock",
+    "BRA": "rocks circle a flower",
+    "ARB_dir": "flowers circle a rock",
+    "BRA_dir": "rocks circle a flower"
+
+}

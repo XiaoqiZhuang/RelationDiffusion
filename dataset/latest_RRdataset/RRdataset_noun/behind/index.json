@@ -1,0 +1,10 @@
+{
+    "A":"tiger",
+    "R":"behind",
+    "B":"tree",
+    "ARB": "There is a tiger behind tree",
+    "BRA": "There is a tree behind tiger",
+    "ARB_dir": "tiger behind tree",
+    "BRA_dir": "tree behind tiger"
+
+}

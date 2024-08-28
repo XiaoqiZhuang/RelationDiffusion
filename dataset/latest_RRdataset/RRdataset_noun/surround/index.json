@@ -1,0 +1,10 @@
+{
+    "A":"flower",
+    "R":"surrounded",
+    "B":"rock",
+    "ARB": "there is a flower surrounded by rocks",
+    "BRA": "there is a rock surrounded by flowers",
+    "ARB_dir": "a flower is surrounded by rocks",
+    "BRA_dir": "a rock is surrounded by flowers"
+
+}

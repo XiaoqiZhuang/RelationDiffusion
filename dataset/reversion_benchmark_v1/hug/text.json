@@ -1,0 +1,40 @@
+{
+    "0.jpg": [
+        "dog {} dog",
+        "a dog {} a dog",
+        "the dog {} the dog",
+        "a dog {} another dog"
+    ],
+    "1.jpg": [
+        "man {} man",
+        "a man {} a man",
+        "the man {} the man",
+        "a man {} another man"
+    ],
+    "2.jpg": [
+        "monkey {} man",
+        "a monkey {} a man",
+        "the monkey {} the man"
+    ],
+    "3.jpg": [
+        "monkey {} man",
+        "a monkey {} a man",
+        "the monkey {} the man"
+    ],
+    "4.jpg": [
+        "woman {} man",
+        "a woman {} a man",
+        "the woman {} the man"
+    ],
+    "5.jpg": [
+        "woman {} man",
+        "a woman {} a man",
+        "the woman {} the man"
+    ],
+    "6.jpg": [
+        "woman {} woman",
+        "a woman {} a woman",
+        "the woman {} the woman",
+        "a woman {} another woman"
+    ]
+}

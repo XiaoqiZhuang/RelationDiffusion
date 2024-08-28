@@ -1,0 +1,10 @@
+{
+    "A":"tree",
+    "R":"between",
+    "B":"house",
+    "ARB": "there is a tree between houses",
+    "BRA": "there is a house between trees",
+    "ARB_dir": "a tree between houses",
+    "BRA_dir": "a house between trees"
+
+}

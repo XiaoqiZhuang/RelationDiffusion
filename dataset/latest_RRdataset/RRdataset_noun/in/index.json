@@ -1,0 +1,10 @@
+{
+    "A":"bowl",
+    "R":"in",
+    "B":"water",
+    "ARB": "there is a bowl in the water",
+    "BRA": "there is water in the bowl",
+    "ARB_dir": "bowl in the water",
+    "BRA_dir": "water in the bowl"
+
+}

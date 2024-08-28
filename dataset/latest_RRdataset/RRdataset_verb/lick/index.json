@@ -1,0 +1,10 @@
+{
+    "A":"cat",
+    "R":"licks",
+    "B":"dog",
+    "ARB": "a cat licks a dog",
+    "BRA": "a dog licks a cat",
+    "ARB_dir": "cat licks dog",
+    "BRA_dir": "dog licks cat"
+
+}

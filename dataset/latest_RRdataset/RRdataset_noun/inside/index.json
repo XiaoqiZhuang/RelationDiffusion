@@ -1,0 +1,10 @@
+{
+    "A":"bowl",
+    "R":"inside",
+    "B":"cloth",
+    "ARB": "there is a bowl inside the cloth",
+    "BRA": "there is a cloth inside the bowl",
+    "ARB_dir": "A bowl inside the cloth",
+    "BRA_dir": "A cloth inside the bowl"
+
+}

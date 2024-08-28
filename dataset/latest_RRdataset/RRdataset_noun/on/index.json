@@ -1,0 +1,10 @@
+{
+    "A":"blanket",
+    "R":"on",
+    "B":"table",
+    "ARB": "there is a blanket on the table",
+    "BRA": "there is a table on the blanket",
+    "ARB_dir": "there is a blanket on the table",
+    "BRA_dir": "there is a table on the blanket"
+
+}

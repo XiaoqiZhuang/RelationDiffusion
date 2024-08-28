@@ -1,0 +1,59 @@
+{
+    "0.jpg": [
+        "box {} basket",
+        "a box {} a basket",
+        "the box {} the basket",
+        "box {} basket, white background",
+        "box {} basket, simple background"
+    ],
+    "1.jpg": [
+        "glass bottle {} basket",
+        "a glass bottle {} a basket",
+        "the glass bottle {} the basket",
+        "glass bottle {} basket, white background",
+        "glass bottle {} basket, simple background"
+    ],
+    "2.jpg": [
+        "wine {} basket",
+        "a bottle of wine {} a basket",
+        "a bottle of wine {} the basket",
+        "a bottle of wine {} basket, white background",
+        "a bottle of wine {} basket, simple background"
+    ],
+    "3.jpg": [
+        "cat {} bowl",
+        "a cat {} a white bowl",
+        "a cat {} a white bowl, wood boarded floor"
+    ],
+    "4.jpg": [
+        "rice {} bowl",
+        "white rice {} a bowl",
+        "rice {} the black bowl",
+        "rice {} black bowl, white background",
+        "rice {} bowl, simple background"
+    ],
+    "5.jpg": [
+        "vegetables {} paper bag",
+        "vegetables, tomatoes, broccoli, lettuce {} paper bag",
+        "vegetables {} paper bag, light gray background"
+    ],
+    "6.jpg": [
+        "cat {} pot",
+        "orange cat {} stainless steel pot",
+        "orange cat {} stainless steel pot, brick wall background"
+    ],
+    "7.jpg": [
+        "dog {} basket",
+        "white dog {} basket",
+        "white dog {} basket, white background"
+    ],
+    "8.jpg": [
+        "vegetables {} basket",
+        "vegetables {} a basket",
+        "vegetables {} basket, white background"
+    ],
+    "9.jpg": [
+        "cat {} box",
+        "cat {} cardboard box"
+    ]
+}

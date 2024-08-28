@@ -1,0 +1,59 @@
+{
+    "0.jpg": [
+        "girl {} horse",
+        "a girl in pink {} a dark brown horse",
+        "a girl in pink {} a dark brown horse, on the beach"
+    ],
+    "1.jpg": [
+        "boy {} toy horse",
+        "a boy in white shirt and grey pants {} a brown toy horse",
+        "a boy in white shirt and grey pants {} a brown toy horse, simple background"
+    ],
+    "2.jpg": [
+        "woman {} horse",
+        "a female in pink {} a brown horse",
+        "a female in pink {} a brown horse, blurry trees in the background"
+    ],
+    "3.jpg": [
+        "macaw {} toy bicycle",
+        "a blue-and-yellow macaw {} a yellow bicycle",
+        "a blue-and-yellow macaw {} a yellow bicycle, blurred indoor background"
+    ],
+    "4.jpg": [
+        "man {} horse",
+        "a male wearing shirt jeans and hat {} a brown horse",
+        "a man wearing shirt jeans and hat {} a brown horse, in the field"
+    ],
+    "5.jpg": [
+        "woman {} horse",
+        "a woman in black {} a light brown horse",
+        "a woman in black {} a light brown horse, cloudy sky in the background"
+    ],
+    "6.jpg": [
+        "briard dog {} bicycle",
+        "a briard dog {} a blue bicycle",
+        "a briard dog {} a blue bicycle, in a park"
+    ],
+    "7.jpg": [
+        "orange cat {} toy bicycle",
+        "a little orange cat {} a red toy bicycle",
+        "a little orange cat {} a red toy bicycle, blurred bamboo in the background"
+    ],
+    "8.jpg": [
+        "man{} bicycle",
+        "a man wearing black sport cloth {} a black bicycle",
+        "a man wearing black sport cloth {} a black bicycle, grasses and distant mountains in the background"
+    ],
+    "9.jpg": [
+        "boy {} man",
+        "boy {} father",
+        "boy in white shirt and short blue jeans {} father in white shirt and short blue jeans",
+        "boy in white shirt and short blue jeans {} father in white shirt and short blue jeans, indoor with bookcase"
+    ],
+    "10.jpg": [
+        "panda {} toy horse",
+        "panda {} yellow toy horse",
+        "panda {} yellow toy horse, green grass and rocks in background",
+        "panda {} yellow toy horse, green grass and cabblestones in background"
+    ]
+}

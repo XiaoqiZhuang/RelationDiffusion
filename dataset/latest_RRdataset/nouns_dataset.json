@@ -1,0 +1,137 @@
+{   
+    "base_dir":"/root/autodl-tmp/LLaVA/experiment_imgs",
+    "w": [0, 0.2, 0.4, 0.6, 0.8, 1],
+    "surround":{
+        "ARB_dir":"surround/a flower is surrounded by rocks",
+        "BRA_dir":"surround/a rock is surrounded by flowers",
+        "sum_sentence":"Please describe the relation between the flower and the rock in concise language for me.",
+        "question":"Is there a rock surrounded by flowers or a flower surrounded by rocks? Please choose the more probable one and answer with one sentence.",
+        "question_pre":"Please describe the relation between the flower and the rock in concise language for me.",
+        "questionA":"Is there any flower in the image? Please answer with yes or no.",
+        "questionB":"Is there any rock in the image? Please answer with yes or no.",
+        "A_key_words": ["flower", "flowers"],
+        "B_key_words": ["rock", "rocks"],
+        "R_key_words":["among","surrounded"],
+        "R_inver_key_words":[]
+    },
+    "beneath":{
+        "ARB_dir":"beneath/a car beneath bridge",
+        "BRA_dir":"beneath/a bridge beneath car",
+        "sum_sentence":"Please describe the relation between the car and the bridge in concise language for me.",
+        "question":"Is there a car driving on the bridge or a car beneath the bridge? Please choose the more probable one and answer with one sentence.",
+        "question_pre":"Is there both a car and a bridge in the image? Please answer with yes or no.",
+        "questionA":"Is there any car in the image? Please answer with yes or no",
+        "questionB":"Is there any bridge in the image? Please answer with yes or no",
+        "A_key_words": ["car"],
+        "B_key_words": ["bridge"],
+        "R_key_words":["under","beneath"],
+        "R_inver_key_words":["on"]
+    },
+    "on":{
+        "ARB_dir":"on/there is a table on the blanket",
+        "BRA_dir":"on/there is a blanket on the table",
+        "sum_sentence":"Please describe the relation between the table and the blanket in concise language for me.",
+        "question":"Is there a blanket on the table or a table on the carpet? Please choose the more probable one and answer with one sentence.",
+        "question_pre":"Is there both a table and a blanket in the image? Please answer with yes or no.",
+        "questionA":"Is there any table in the image? Please answer with yes or no.",
+        "questionB":"Is there any blanket in the image? Please answer with yes or no.",
+        "A_key_words": ["table"],
+        "B_key_words": ["blanket", "carpet"],
+        "R_key_words":["on"],
+        "R_inver_key_words":["under"]
+    },
+    "in":{
+        "ARB_dir":"in/bowl in the water",
+        "BRA_dir":"in/water in the bowl",
+        "sum_sentence":"Please describe the relation between the water and the bowl in concise language for me.",
+        "question":"Is there a bowl in the water or water in the bowl? Please choose the more probable one and answer with one sentence.",
+        "question_pre":"Is there both water and a bowl in the image? Please answer with yes or no.",
+        "questionA":"Is there any bowl in the image? Please answer with yes or no.",
+        "questionB":"Is there water in the image? Please answer with yes or no.",
+        "A_key_words": ["bowl"],
+        "B_key_words": ["water"],
+        "R_key_words":["in"],
+        "R_inver_key_words":[]
+    },
+    "inside":{
+        "ARB_dir":"inside/A bowl inside the cloth",
+        "BRA_dir":"inside/A cloth inside the bowl",
+        "sum_sentence":"Please describe the relation between the bowl and the cloth in concise language for me.",
+        "question":"Is there a bowl inside the cloth or a cloth inside the bowl? Please choose the more probable one and answer with one sentence.",
+        "question_pre":"Is there both a bowl and a cloth in the image? Please answer with yes or no.",
+        "questionA":"Is there any bowl in the image? Please answer with yes or no",
+        "questionB":"Is there any cloth in the image? Please answer with yes or no",
+        "A_key_words": ["bowl"],
+        "B_key_words": ["cloth"],
+        "R_key_words":["inside","in"],
+        "R_inver_key_words":["wrapped"]
+    },
+    "right":{
+        "ARB_dir":"right/a dog on the right of a bucket",
+        "BRA_dir":"right/a bucket on the right of a dog",
+        "sum_sentence":"Please describe the right-left relation between the dog and the bucket in concise language for me.",
+        "question":"Is there a dog on the right of a bucket or a dog on the left of a bucket? Please choose the more probable one and answer with one sentence.",
+        "question_pre":"Is there both a dog and a bucket in the image? Please answer with yes or no.",
+        "questionA":"Is there any dog in the image? Please answer with yes or no.",
+        "questionB":"Is there any bucket in the image? Please answer with yes or no.",
+        "A_key_words": ["dog"],
+        "B_key_words": ["bucket"],
+        "R_key_words":["right"],
+        "R_inver_key_words":["left"]
+    },
+    "below":{
+        "ARB_dir":"below/there is a panda below desk",
+        "BRA_dir":"below/there is a desk below panda",
+        "sum_sentence":"Please describe the relation between the panda and the desk in concise language for me.",
+        "question":"Is there a panda under the desk or a panda on the desk? Please choose the more probable one and answer with one sentence.",
+        "question_pre":"Is there both a panda and a desk in the image? Please answer with yes or no.",
+        "questionA":"Is there any panda in the image? Please answer with yes or no.",
+        "questionB":"Is there any desk in the image? Please answer with yes or no.",
+        "A_key_words": ["panda"],
+        "B_key_words": ["desk", "table"],
+        "R_key_words":["below", "under"],
+        "R_inver_key_words":["on"]
+    },
+    "behind":{
+        "ARB_dir":"behind/tiger behind tree",
+        "BRA_dir":"behind/tree behind tiger",
+        "sum_sentence":"Please describe the relation between the tiger and the tree in concise language for me.",
+        "question":"Is there a tiger behind the tree or a tiger in front of the tree? Please choose the more probable one and answer with one sentence.",
+        "question_pre":"Is there both tiger and tree in the image? Please answer with yes or no.",
+        "questionA":"Is there any tiger in the image? Please answer with yes or no.",
+        "questionB":"Is there any tree in the image? Please answer with yes or no.",
+        "A_key_words": ["tiger"],
+        "B_key_words": ["tree", "trees"],
+        "R_key_words":["behind"],
+        "R_inver_key_words":["front"]
+    },
+    "between":{
+        "ARB_dir":"between/a tree between houses",
+        "BRA_dir":"between/a house between trees",
+        "sum_sentence":"Please describe the relation between the house and the tree in concise language for me.",
+        "question":"Is there a tree surrounded by the houses or a house surrounded by trees? Please choose the more probable one and answer with one sentence.",
+        "question_pre":"Is there both tree and house in the image? Please answer with yes or no.",
+        "questionA":"Is there any tree in the image? Please answer with yes or no.",
+        "questionB":"Is there any house in the image? Please answer with yes or no.",
+        "A_key_words": ["tree", "trees"],
+        "B_key_words": ["houses", "house"],
+        "R_key_words":["between", "surrounded"],
+        "R_inver_key_words":[]
+    },
+    "lies":{
+        "ARB_dir":"lies/pig lies on blanket",
+        "BRA_dir":"lies/blanket lies on pig",
+        "sum_sentence":"Please describe the relation between the pig and the blanket in concise language for me.",
+        "question":"Is there a pig lies on the blanket or a pig covered by the blanket? Please choose the more probable one and answer with one sentence.",
+        "question_pre":"Is there both pig and blanket in the image? Please answer with yes or no.",
+        "questionA":"Is there any pig in the image? Please answer with yes or no.",
+        "questionB":"Is there any blanket in the image? Please answer with yes or no.",
+        "A_key_words": ["pig"],
+        "B_key_words": ["blanket"],
+        "R_key_words":["lies", "lying", "laying"],
+        "R_inver_key_words":["covered"]
+    }
+
+
+
+}

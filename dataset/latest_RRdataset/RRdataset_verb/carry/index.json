@@ -1,0 +1,10 @@
+{
+    "A":"astronaut",
+    "R":"carries",
+    "B":"horse",
+    "ARB": "an astronaut carries a horse",
+    "BRA": "a horse carries an astronaut",
+    "ARB_dir": "an astronaut carries a horse",
+    "BRA_dir": "a horse carries an astronaut"
+
+}

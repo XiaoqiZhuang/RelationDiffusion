@@ -1,0 +1,10 @@
+{
+    "A":"person",
+    "R":"following",
+    "B":"dog",
+    "ARB": "there is a person following a dog",
+    "BRA": "there is a dog following a person",
+    "ARB_dir": "a person is following a dog",
+    "BRA_dir": "a dog is following a person"
+
+}

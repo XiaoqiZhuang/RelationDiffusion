@@ -1,0 +1,37 @@
+{
+    "0.png": [
+        "cat {} chair",
+        "a cat {} a chair",
+        "a black and white cat {} a brown chair",
+        "a black and white cat {} a wooden chair, simple background"
+    ],
+    "1.png": [
+        "pot {} stool",
+        "a pot {} a stool",
+        "a pot with green plant {} a wooden stool",
+        "a pot with green plant {} a wooden stool, indoor"
+    ],
+    "2.png": [
+        "dog {} box",
+        "a dog {} a box",
+        "a husky dog {} a brown box, grass in the background"
+    ],
+    "3.png": [
+        "mug {} plate",
+        "a mug {} a plate",
+        "a rock mug {} a rock plate",
+        "a rock mug {} a rock plate, wooden background"
+    ],
+    "4.png": [
+        "ball {} cube",
+        "a ball {} a cube",
+        "a white ball {} a black cube",
+        "a white ball {} a black cube, noisy grey background"
+    ],
+    "5.png": [
+        "flower {} laptop",
+        "a flower {} a laptop",
+        "a pink flower {} an opened laptop",
+        "a pink flower {} an opened laptop, indoor scene"
+    ]
+}

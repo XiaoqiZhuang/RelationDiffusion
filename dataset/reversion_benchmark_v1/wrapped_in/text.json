@@ -1,0 +1,64 @@
+{
+    "0.jpg": [
+        "dog {} towel",
+        "a dog {} a towel",
+        "a brown and white dog {} a grey blue towel",
+        "a brown and white dog {} a bluish-grey towel",
+        "a brown and white dog {} a grey blue towel, grey background",
+        "a brown and white dog {} a bluish-grey towel, concrete floor"
+    ],
+    "1.jpg": [
+        "dog {} blanket",
+        "a dog {} a blanket",
+        "a small brown and white dog {} a grey blanket",
+        "a baby brown and white dog {} a grey blanket",
+        "a small brown and white dog {} a grey blanket, yellow counter background",
+        "a baby brown and white dog {} a grey blanket, yellow background"
+    ],
+    "2.jpg": [
+        "cat {} blanket",
+        "a tabby cat {} a white blanket",
+        "a tabby cat {} a white blanket, simple background"
+    ],
+    "3.jpg": [
+        "dog {} towel",
+        "a brown and white dog {} a yellow towel",
+        "a brown and white dog {} a yellow towel, light blue and white background"
+    ],
+    "4.jpg": [
+        "child {} blanket",
+        "a little child {} a yellow blanket",
+        "a little child {} a yellow blanket, pure white background"
+    ],
+    "5.jpg": [
+        "baby {} towel",
+        "a infant {} a towel",
+        "a baby {} a pink towel",
+        "a baby {} a pink towel, pure white background"
+    ],
+    "6.jpg": [
+        "dog {} blanket",
+        "a pug dog {} a grey blanket",
+        "a pug dog {} a grey blanket, blurred garden in the background"
+    ],
+    "7.jpg": [
+        "cat {} blanket",
+        "a grey cat {} a grey blanket",
+        "a grey cat {} a grey blanket, indoor scene, curtain at background"
+    ],
+    "8.jpg": [
+        "child {} towel",
+        "a child {} a white tower",
+        "a child {} a white tower, light indoor background"
+    ],
+    "9.jpg": [
+        "cat {} blanket",
+        "a tabby cat {} a chartreuse blanket",
+        "a tabby cat {} a chartreuse blanket, chartreuse background"
+    ],
+    "10.jpg": [
+        "dog {} towel",
+        "a brown and white dog {} a white towel",
+        "a brown and white dog {} a white towel, simple orange background"
+    ]
+}

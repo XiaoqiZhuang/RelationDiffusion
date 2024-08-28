@@ -1,0 +1,10 @@
+{
+    "A":"house",
+    "R":"painted",
+    "B":"rock",
+    "ARB": "a painting of house is painted on a rock",
+    "BRA": "a painting of rock is painted on a house",
+    "ARB_dir": "a painting of house is painted on a rock",
+    "BRA_dir": "a painting of rock is painted on a house"
+
+}

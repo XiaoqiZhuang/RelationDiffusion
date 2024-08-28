@@ -1,0 +1,53 @@
+{
+    "0.jpg": [
+        "swan {} apple",
+        "a swan {} red apple",
+        "a swan {} red apple, in the plate",
+        "a swan {} red apple, in the plate, white background"
+    ],
+    "1.jpg": [
+        "horse {} bronze",
+        "a horse {} bronze",
+        "a horse {} bronze, white background"
+    ],
+    "2.jpg": [
+        "rose {} carrot",
+        "a small rose {} red carrot",
+        "a small rose {} red carrot, black background"
+    ],
+    "3.jpg": [
+        "dog {} clay",
+        "a dog {} grey clay",
+        "a dog {} grey clay, grey background"
+    ],
+    "4.jpg": [
+        "rabbit {} glass",
+        "a rabbit {} glass",
+        "a rabbit {} glass, black background"
+    ],
+    "5.jpg": [
+        "bodhisattva {} jade",
+        "a bodhisattva {} jade",
+        "a bodhisattva {} jade, simple grey background"
+    ],
+    "6.jpg": [
+        "lion {} marble",
+        "a lion {} marble",
+        "a lion {} marble in front of a building"
+    ],
+    "7.jpg": [
+        "lotus {} marble",
+        "a lotus {} marble",
+        "a lotus {} marble, grey background"
+    ],
+    "8.jpg": [
+        "dog {} metal",
+        "a dog {} metal",
+        "a dog {} metal, grasses background"
+    ],
+    "9.jpg": [
+        "cat {} wood",
+        "a little cat {} wood",
+        "a little cat {} wood on the wooden table, blurred background"
+    ]
+}

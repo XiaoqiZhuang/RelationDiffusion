@@ -1,0 +1,80 @@
+{
+    "0.jpg": [
+        "boy {} boy",
+        "a boy {} a boy",
+        "a boy with shirt and jeans {} a boy in shirt and jeans",
+        "a boy wearing shirt and jeans {} another boy wearing shirt and jeans",
+        "a boy with shirt and jeans {} a boy in shirt and jeans, simple background",
+        "a boy wearing shirt and jeans {} another boy wearing shirt and jeans, white background"
+    ],
+    "1.jpg": [
+        "girl {} boy",
+        "a girl {} a boy",
+        "a girl with in white and green {} a boy in white and light grey",
+        "a girl wearing white T-shirt and green skirt {} a boy in white T-shirt and grey shorts",
+        "a girl with in white and green {} a boy in white and light grey, simple background",
+        "a girl wearing white T-shirt and green skirt {} a boy in white T-shirt and grey shorts, white background"
+    ],
+    "2.jpg": [
+        "cat {} cat",
+        "a cat {} a cat",
+        "a long haired cat {} a long haired cat",
+        "a dark long haired cat {} a grey long haired cat",
+        "a dark long haired cat {} a grey long haired cat, white background",
+        "a dark long haired cat {} a grey long haired cat, pure white background"
+    ],
+    "3.jpg": [
+        "female {} male",
+        "woman {} man",
+        "a female {} a male",
+        "a woman wearing in white trousers and blue shirt {} a man in grey",
+        "a woman wearing in white trousers and blue shirt {} a man in khaki trousers and light grey shirt",
+        "a woman wearing in white trousers and blue shirt {} a man in khaki trousers and light grey shirt, white background"
+    ],
+    "4.jpg": [
+        "girl {} boy",
+        "a girl {} a boy",
+        "a girl with in pink top and jeans {} a boy with striped t-shirt and jeans",
+        "a girl with pink t-shirt and jeans {} a boy with blue and white striped t-shirt and jeans",
+        "a girl with in pink top and jeans {} a boy with striped t-shirt and jeans, indoor environment",
+        "a girl with in pink top and jeans {} a boy with striped t-shirt and jeans, grey sofa in background"
+    ],
+    "5.jpg": [
+        "boy {} boy",
+        "a boy {} a boy",
+        "a boy with shirt and trousers {} another boy with shirt and trousers",
+        "a boy with light shirt and black trousers {} another boy with doted grey shirt and black trousers",
+        "a boy with shirt and trousers {} another boy with shirt and trousers, white background",
+        "a boy with light shirt and black trousers {} another boy with doted grey shirt and black trousers, white background"
+    ],
+    "6.jpg": [
+        "bear {} bear",
+        "a bear {} a bear",
+        "a bear {} a bear in wooded area",
+        "a bear {} a bear, bush in background"
+    ],
+    "7.jpg": [
+        "girl {} boy",
+        "a girl {} a boy",
+        "a young girl {} a young boy",
+        "a young girl in purple dress {} a young boy in white",
+        "a girl in purple dress {} a boy in white shirt, in the field",
+        "a young girl in purple dress {} a young boy in white, in the field"
+    ],
+    "8.jpg": [
+        "girl {} boy",
+        "a girl {} a boy",
+        "a teenager girl {} a teenager boy",
+        "a teenager girl in red shirt and jeans {} a teenager boy with blue shirt and khaki trousers",
+        "a teenager girl {} a teenager boy, white background",
+        "a teenager girl wearing red shirt and jeans {} a teenager boy in blue shirt and khaki trousers, white background"
+    ],
+    "9.jpg": [
+        "cat {} cat",
+        "a cat {} a cat",
+        "an orange cat {} a brown and white cat",
+        "an orange cat {} a brown and white cat",
+        "an orange cat {} a brown and white cat on a wooden bench",
+        "an orange cat {} a brown and white cat on a wooden bench, grasses in background"
+    ]
+}

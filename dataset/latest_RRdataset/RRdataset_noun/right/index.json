@@ -1,0 +1,10 @@
+{
+    "A":"dog",
+    "R":"right",
+    "B":"bucket",
+    "ARB": "there is a dog on the right of a bucket",
+    "BRA": "there is a bucket on the right of a dog",
+    "ARB_dir": "a dog on the right of a bucket",
+    "BRA_dir": "a bucket on the right of a dog"
+
+}

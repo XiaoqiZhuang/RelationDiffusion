@@ -1,0 +1,83 @@
+{
+    "0.png": [
+        "cat {} cat",
+        "a cat {} a cat",
+        "the cat {} the cat",
+        "a cat {} another cat"
+    ],
+    "1.png": [
+        "cat {} cat",
+        "a cat {} a cat",
+        "the cat {} the cat",
+        "a cat {} another cat"
+    ],
+    "2.png": [
+        "cat {} person",
+        "a cat {} a person",
+        "the cat {} the person"
+    ],
+    "3.png": [
+        "chimpanzee {} chimpanzee",
+        "a chimpanzee {} a chimpanzee",
+        "the chimpanzee {} the chimpanzee",
+        "a chimpanzee {} another chimpanzee"
+    ],
+    "4.png": [
+        "dog {} dog",
+        "a dog {} a dog",
+        "the dog {} the dog",
+        "a dog {} another dog"
+    ],
+    "5.png": [
+        "dog {} dog",
+        "a dog {} a dog",
+        "the dog {} the dog",
+        "a dog {} another dog"
+    ],
+    "6.png": [
+        "man {} man",
+        "a man {} a man",
+        "the man {} the man",
+        "a man {} another man"
+    ],
+    "7.png": [
+        "man {} man",
+        "a man {} a man",
+        "the man {} the man",
+        "a man {} another man"
+    ],
+    "8.png": [
+        "monkey {} monkey",
+        "a monkey {} a monkey",
+        "a monkey {} another monkey"
+    ],
+    "9.png": [
+        "monkey {} monkey",
+        "a monkey {} a monkey",
+        "the monkey {} the monkey",
+        "a monkey {} another monkey"
+    ],
+    "10.png": [
+        "woman {} cat",
+        "a woman {} a cat",
+        "the woman {} the cat"
+    ],
+    "11.png": [
+        "woman {} woman",
+        "a woman {} a woman",
+        "the woman {} the woman",
+        "a woman {} another woman"
+    ],
+    "12.png": [
+        "woman {} woman",
+        "a woman {} a woman",
+        "the woman {} the woman",
+        "a woman {} another woman"
+    ],
+    "13.png": [
+        "woman {} woman",
+        "a woman {} a woman",
+        "the woman {} the woman",
+        "a woman {} another woman"
+    ]
+}

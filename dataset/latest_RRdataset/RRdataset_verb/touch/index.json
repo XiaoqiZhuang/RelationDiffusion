@@ -1,0 +1,10 @@
+{
+    "A":"cat",
+    "R":"touches",
+    "B":"boy",
+    "ARB": "a cat touches a boy",
+    "BRA": "a boy touches a cat",
+    "ARB_dir": "a cat touches a boy",
+    "BRA_dir": "a boy touches a cat"
+
+}
