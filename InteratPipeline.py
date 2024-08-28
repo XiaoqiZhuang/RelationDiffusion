@@ -53,7 +53,7 @@ class InteracPipeline(StableDiffusionPipeline):
     @torch.no_grad()
     def __call__(
             self,
-            cur,
+            # cur,
             infer_info,
             indice_dic,
             prompt: Union[str, List[str]],
@@ -112,11 +112,12 @@ class InteracPipeline(StableDiffusionPipeline):
             prompt_embeds=prompt_embeds,
             negative_prompt_embeds=negative_prompt_embeds,
         )
-        
-        prompt_embeds[1, indice_dic['s1']] = infer_info[0][cur]
-        prompt_embeds[1, indice_dic['r']] = infer_info[1][cur]
-        prompt_embeds[1, indice_dic['s2']] = infer_info[2][cur]
-        prompt_embeds[1, indice_dic['s2']+1] = infer_info[3][cur]
+
+        for i in range(infer_info.shape[1]):
+            prompt_embeds[2*i+1, indice_dic['s1']] = infer_info[0][i]
+            prompt_embeds[2*i+1, indice_dic['r']] = infer_info[1][i]
+            prompt_embeds[2*i+1, indice_dic['s2']] = infer_info[2][i]
+            prompt_embeds[2*i+1, indice_dic['s2']+1] = infer_info[3][i]
 
         # 4. Prepare timesteps
         self.scheduler.set_timesteps(num_inference_steps, device=device)

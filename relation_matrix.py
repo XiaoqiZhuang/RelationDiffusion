@@ -107,7 +107,7 @@ def search_subject(subjects, relation):
     return res
 
 def get_relation_matrix(relation, indice_dic):
-    with open (f'{relation}.json', 'r') as fn:
+    with open (f'dataset/{relation}.json', 'r') as fn:
         subjects = json.load(fn)
 
     refer_prompt = search_subject(subjects, relation)
@@ -128,5 +128,5 @@ def get_indice_dic():
         tmp_dic = input().split(',')
         indice_dic[relation] = {'s1': tmp_dic[0], 'r': tmp_dic[1], 's2': tmp_dic[2]}
     print(indice_dic)
-    with open('indice_dic.json', 'w') as fn:
+    with open('dataset/indice_dic.json', 'w') as fn:
         json.dump(indice_dic, fn)
